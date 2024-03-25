@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "name": "Bridges.",
+      "symbol": "$BRG",
+      "description": "Bridges. is a Decentralized Funding Ecosystem built on the Cardano Blockchain."
+    },
+    {
+      "name": "Snek",
+      "symbol": "$SNEK",
+      "description": "Snek is a cultural movement and leading currency for meme creators worldwide."
+    }
+  ]
+}
