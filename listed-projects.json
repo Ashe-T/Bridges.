@@ -1,0 +1,39 @@
+{
+  [
+    {
+      "name": "Bridges.",
+      "symbol": "$BRG",
+      "description": "Bridges. is a Decentralized Funding Ecosystem built on the Cardano Blockchain.",
+      "logo": "https://em-content.zobj.net/source/microsoft/379/bridge-at-night_1f309.png",
+      "website": ""
+    },
+    {
+      "name": "Snek",
+      "symbol": "$SNEK",
+      "description": "Snek is a cultural movement and leading currency for meme creators worldwide.",
+      "logo": "https://www.taptools.io/_next/image?url=https%3A%2F%2Fd28yzo4ezrm37i.cloudfront.net%2Fimage%2FQmaPe6g9NPTTkJ87CF2MjN9fS8Mbfwv8Ue6DwZyyUyXUQF&w=64&q=75",
+      "website": "https://www.snek.com/"
+    },
+    {
+      "name": "Lenfi",
+      "symbol": "$LENFI",
+      "description": "Unlocking Your Financial Potential on the Cardano Blockchain.",
+      "logo": "https://www.taptools.io/_next/image?url=https%3A%2F%2Ftaptools-public.s3.amazonaws.com%2Ftoken-logos%2F8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441.png&w=64&q=75",
+      "website": "https://lenfi.io/"
+    },
+    {
+      "name": "Cornucopias",
+      "symbol": "$COPI",
+      "description": "An MMORPG where player-driven economies and a thirst for adventure rule the bubbleverse.",
+      "logo": "https://www.taptools.io/_next/image?url=https%3A%2F%2Ftaptools-public.s3.amazonaws.com%2Ftoken-logos%2Fb6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d.png&w=64&q=75",
+      "website": "https://www.cornucopias.io/"
+    },
+    {
+      "name": "Milk",
+      "symbol": "$MILK",
+      "description": "MuesliSwap is the first decentralized exchange on Cardano.",
+      "logo": "https://www.taptools.io/_next/image?url=https%3A%2F%2Ftaptools-public.s3.amazonaws.com%2Ftoken-logos%2F8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b.png&w=64&q=75",
+      "website": "https://muesliswap.com/"
+    },
+  ]
+}
